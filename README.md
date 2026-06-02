@@ -24,6 +24,7 @@ This project analyzes a bank loan dataset containing 38,576 loan applications is
  ## Dataset
 The dataset was sourced from a public [YouTube tutotial project](https://www.youtube.com/watch?v=yzaLl-BvHnc&list=PLO9LeSU_vHCWWRghKgAQRg_TrgtRl5-4Y&index=11&t=69s)
 The dashboard design, data preparation, calculations, and analysis were created independently.
+
 ## Tools
 - Excel
 - Power Query
@@ -40,7 +41,7 @@ The process included:
 - Removing unnecessary columns
 - Created a Date Table for time-based analysis
 - Removing duplicates
-- For analyses related to loan outcomes and loan status distribution, loans with the status Current were excluded because they are still active and their final repayment outcome cannot yet be determined.
+- For analyses related to loan outcomes and loan status distribution, loans with the status Current were excluded because they are still active and their final repayment outcome cannot yet be determined
 
 
 ## Key insights
@@ -52,7 +53,6 @@ The process included:
 - Higher-risk loans generated higher average net returns but also experienced significantly higher default rates.
 
 ## Business Recommendations
-
 - Continue monitoring high-risk segments, as they generate higher returns but also significantly higher default rates.
 - Consider tighter approval criteria for Extreme and Severe risk groups.
 - Focus marketing efforts on debt consolidation products, which represent the largest share of applications.
